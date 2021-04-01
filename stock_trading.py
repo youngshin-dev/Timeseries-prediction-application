@@ -1,3 +1,5 @@
+#This program takes stock prices of the past 5 days and predict the prices for the next day. 
+#It then implements simple logic of buying the stock that will rise the most and sell the stock that will drop the most.
 import sklearn.metrics as metrics
 import pandas as pd
 import numpy as np
